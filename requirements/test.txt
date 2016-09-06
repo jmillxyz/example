@@ -11,7 +11,6 @@ factory_boy==2.7.0
 
 # pytest
 pytest-django==3.0.0
-pytest-sugar==0.7.1
 pytest-cov==2.3.1
 
 selenium==3.0.0b2
